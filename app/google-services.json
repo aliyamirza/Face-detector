@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "181537499830",
+    "project_id": "face-detector-app-cbaaa",
+    "storage_bucket": "face-detector-app-cbaaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181537499830:android:6d33f523c8393b12915417",
+        "android_client_info": {
+          "package_name": "com.smartheard.facedetectorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181537499830-omcq078qe2p9d2vlv83iitegcufngbh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwVX4X925FReKXEF2s2aOR6KeLpUUW7Fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181537499830-omcq078qe2p9d2vlv83iitegcufngbh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
